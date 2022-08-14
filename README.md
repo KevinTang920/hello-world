@@ -1,5 +1,9 @@
 # hello-world
 Start Github with hello world
 
+# Swift
 
-THis is Kevin, I'm learning Python now. I want to save my project on Github.
+## String
+
+### String Interpolation
+```let welcomeString = "Hello \(firstName), welcome to \(city)"```
